@@ -17,7 +17,7 @@ int _lenght(char *s)
  * @s: is the string
  * Return: 1 if it is palindrome or 0 if not
  */
-int checkp(int i, int lg, chr *s)
+int checkp(int i, int lg, char *s)
 {
 	if (lg > 0)
 	{
